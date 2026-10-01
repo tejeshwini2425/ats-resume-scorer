@@ -231,7 +231,7 @@ Database credentials are kept outside the source code and are never committed to
 ## 📸 Screenshots
 ### Resume Scoring
 
-![Resume Scoring](screenshots/screenshot1.png)
+![Resume Scoring](screenshots/Screenshot1.png)
 
 ### Score Result
 
